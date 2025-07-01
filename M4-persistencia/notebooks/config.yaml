@@ -1,0 +1,5 @@
+debug: true
+usuarios:
+- Ana
+- Juan
+version: 1.0
